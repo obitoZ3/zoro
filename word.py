@@ -1,4 +1,4 @@
-word=input()
+word = input()
 print(word)
 
 store=dict()
